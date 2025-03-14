@@ -1,3 +1,4 @@
+![logo](https://github.com/Ganesh672-Sai/Ganesh672-Sai/blob/main/Github%20Gif.gif)
 <h1 align="center">Hi 👋, I'm Mudu.Ganesh</h1>
 <h3 align="center">A Passionate Software Engineering from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
