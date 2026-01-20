@@ -95,9 +95,9 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
 
 
 
-<p align="left">
-  <strong> <h1> Portfolio </h1> </strong>
-</p>  
+
+  <strong> <p align="left"> <h1> Portfolio </h1> </strong> </p>
+
 
 
 <!-- Portfolio Button -->
