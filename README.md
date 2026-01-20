@@ -85,22 +85,16 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
 
 
 
-#### 🔍 Profile views :
-![Visitor Count](https://profile-counter.glitch.me/Ganesh672-Sai/count.svg)
 
-<div align="center"> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=3E92CC&center=true&vCenter=true&width=700&lines=Data+is+everything.;Code+with+passion,+create+with+purpose.;Commit+to+your+dreams,+push+to+GitHub.;Craft+ideas+into+reality+with+code.;Dream+big,+build+smart+🚀" alt="Typing SVG" /> </h1> </div>
-
-
-
-<!-- Divider -->
+<!-- Divider Line -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </p>
 
-<!-- Outro Typing (Centered) -->
+<!-- Outro Typing Text -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4200&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+👋;Designer+%7C+Developer+%7C+Data+Science+Enthusiast;Let’s+build+something+meaningful+together+🚀" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+👋;UI%2FUX+Designer+%7C+Web+Developer+%7C+Data+Science+Student;Freelance+Designer+building+clean+and+impactful+products;Let’s+create+something+amazing+together+🚀"
     alt="Outro Typing"
   />
 </p>
@@ -108,7 +102,7 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
 <!-- Portfolio Button -->
 <p align="center">
   <a href="https://portfolio-mudu-ganeshs-projects.vercel.app/" target="_blank">
-    <img 
+    <img
       src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-GANESH_SAI-6366F1?style=for-the-badge&labelColor=0D1117"
       height="42"
     />
@@ -118,19 +112,19 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
 <!-- Email Button -->
 <p align="center">
   <a href="mailto:muduganesh49@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/📧_CONNECT_VIA_EMAIL-muduganesh49@gmail.com-22D3EE?style=for-the-badge&labelColor=0D1117"
+    <img
+      src="https://img.shields.io/badge/📧_CONTACT_ME-muduganesh49@gmail.com-22D3EE?style=for-the-badge&labelColor=0D1117"
       height="42"
     />
   </a>
 </p>
 
-<!-- Animated Eye (Optional, centered) -->
+<!-- Optional Eye Animation -->
 <p align="center">
-  <img src="./eye.gif" width="110" alt="Creative Vision 👁️"/>
+  <img src="./eye.gif" width="100" alt="Creative Vision 👁️"/>
 </p>
 
-<!-- Credits -->
+<!-- Footer Credits -->
 <p align="center">
   <img src="https://img.shields.io/badge/CRAFTED_WITH-💙_CODE_&_DESIGN-6366F1?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/BY-GANESH_SAI-38BDF8?style=for-the-badge&labelColor=0D1117" />
