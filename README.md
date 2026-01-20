@@ -96,10 +96,6 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
   </h1>
 
 
-<!-- Divider Line -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
-</p>
 
 <p align="left">
   <strong> <h1> Portfolio </h1> </strong>
@@ -140,3 +136,9 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
 <p align="center">
   <img src="https://img.shields.io/badge/「_END_OF_PROFILE_」-22C55E?style=for-the-badge&labelColor=0D1117" />
 </p>
+
+<!-- Divider Line -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
+</p>
+
