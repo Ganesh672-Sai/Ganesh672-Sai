@@ -84,8 +84,6 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
 </div>
 
 
-#### 🔍 Profile Views  
-![Visitor Count](https://profile-counter.glitch.me/Ganesh672-Sai/count.svg)
 
 <div align="center">
   <h1>
