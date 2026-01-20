@@ -101,7 +101,9 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </p>
 
-  ##### Portfolio
+<p align="center">
+  <strong>Portfolio</strong>: 
+</p>  
 
 
 <!-- Portfolio Button -->
