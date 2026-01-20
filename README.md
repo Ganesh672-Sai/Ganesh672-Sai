@@ -84,6 +84,18 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
 </div>
 
 
+#### 🔍 Profile Views  
+![Visitor Count](https://profile-counter.glitch.me/Ganesh672-Sai/count.svg)
+
+<div align="center">
+  <h1>
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=3200&pause=800&color=3E92CC&center=true&vCenter=true&width=700&lines=Data+is+everything.;UI%2FUX+Designer+%7C+Web+Developer+%7C+Data+Science+Student;Code+with+passion,+design+with+purpose.;Freelance+Designer+building+real-world+products.;Dream+big,+build+smart+🚀" 
+      alt="Typing SVG"
+    />
+  </h1>
+</div>
+
 
 
 <!-- Divider Line -->
