@@ -1,26 +1,88 @@
-![logo](https://github.com/Ganesh672-Sai/Ganesh672-Sai/blob/main/Github%20Gif.gif)
-<h1 align="center">Hi 👋, I'm Mudu.Ganesh</h1>
-<h3 align="center">A Passionate Software Engineering from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400"/>       
+</div>      
+  
+<div align="center">    
+    <h1> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=500&lines=Hey...+I'm+Dinesh+Bhardwaj;Welcome+to+my+Github+profile!;Aspiring+DSA+and+Web+Dev+Enthusiast!;Exploring+new+tech+stacks!;Let's+code+together!" alt="Typing SVG"/> 
+    </h1>  
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh672-sai&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh672-sai" /> </p>
+<h2 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="35" height="35" /> Get in touch :</h2>         
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mudu-ganeshs-projects.vercel.app/](https://portfolio-mudu-ganeshs-projects.vercel.app/)
+Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
+<div id="badges" align = "center">
+   <a href="https://github.com/Ganesh672-Sai">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+ <a href="https://www.linkedin.com/in/mudu-ganesh-01b99825a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/Sai_Star_672">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
+  </a>
+</div>              
 
-- 📫 How to reach me **muduganesh49@gmail.com**
+<h2 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About me : </h2>
+   🎓 Passionate CSE student at VNRVJIET, graduating in 2026, continuously upgrading my skills to excel in DSA, web development, and open-source contributions. <br><br>
+    🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts alike.  <br><br>
+    🚀 Excited to collaborate, learn, and positively impact this world!  <br><br>
+    📩 Get in touch: 
+    <a href="mailto:ganesh.muduganesh49@gmail.com">muduganesh49@gmail.com</a>  <br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mudu ganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudu ganesh" height="30" width="40" /></a>
-<a href="https://instagram.com/sai_star_672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_star_672" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sai_ganesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sai_ganesh" height="30" width="40" /></a>
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="38"> Languages and Tools</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh672-sai&show_icons=true&locale=en&layout=compact" alt="ganesh672-sai" /></p>
+<table align="center">
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark"></td>
+</tr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh672-sai&show_icons=true&locale=en" alt="ganesh672-sai" /></p>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,express&theme=dark" ></td>
+</tr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh672-sai&" alt="ganesh672-sai" /></p>
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,docker,mysql,mongodb&theme=dark"></td>
+</tr>
+
+</table>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
+<div align="center" width="50%">
+  <p>
+    <img 
+      align="center" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh672-Sai&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
+      alt="Ganesh's GitHub Streak" 
+    />
+  </p>
+</div>
+
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ganesh672-Sai&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ganesh672-Sai&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ganesh672-Sai&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ganesh672-Sai&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ganesh672-Sai&theme=github_dark" />
+</div>
+
+<br>
+
+<div align="center">
+</div>
+
+
+[![An image of @Ganesh672-Sai's Holopin badges](https://holopin.me/Ganesh672-Sai)](https://holopin.io/@Ganesh672-Sai)
+
+#### 🔍 Profile views :
+![Visitor Count](https://profile-counter.glitch.me/Ganesh672-Sai/count.svg)
+
+<div align="center"> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=3E92CC&center=true&vCenter=true&width=700&lines=Data+is+everything.;Code+with+passion,+create+with+purpose.;Commit+to+your+dreams,+push+to+GitHub.;Craft+ideas+into+reality+with+code.;Dream+big,+build+smart+🚀" alt="Typing SVG" /> </h1> </div>
