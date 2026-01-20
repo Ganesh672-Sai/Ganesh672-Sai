@@ -80,7 +80,6 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
 </div>
 
 
-[![An image of @Ganesh672-Sai's Holopin badges](https://holopin.me/Ganesh672-Sai)](https://holopin.io/@Ganesh672-Sai)
 
 #### 🔍 Profile views :
 ![Visitor Count](https://profile-counter.glitch.me/Ganesh672-Sai/count.svg)
