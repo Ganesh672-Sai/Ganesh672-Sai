@@ -89,3 +89,57 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
 ![Visitor Count](https://profile-counter.glitch.me/Ganesh672-Sai/count.svg)
 
 <div align="center"> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=3E92CC&center=true&vCenter=true&width=700&lines=Data+is+everything.;Code+with+passion,+create+with+purpose.;Commit+to+your+dreams,+push+to+GitHub.;Craft+ideas+into+reality+with+code.;Dream+big,+build+smart+🚀" alt="Typing SVG" /> </h1> </div>
+
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- Typing Outro -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4200&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+👋;Designer+%7C+Developer+%7C+Data+Science+Enthusiast;Crafting+clean+designs+and+smart+solutions;Let’s+build+something+impactful+together+🚀" 
+    alt="Outro Typing"
+  />
+</p>
+
+<!-- Portfolio Button -->
+<p align="center">
+  <a href="https://portfolio-mudu-ganeshs-projects.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-GANESH_SAI-6366F1?style=for-the-badge&labelColor=0D1117" 
+      height="42"
+    />
+  </a>
+</p>
+
+<!-- Email Button -->
+<p align="center">
+  <a href="mailto:muduganesh49@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/📧_CONNECT_VIA_EMAIL-muduganesh49@gmail.com-22D3EE?style=for-the-badge&labelColor=0D1117" 
+      height="42"
+    />
+  </a>
+</p>
+
+<!-- Animated Eye -->
+<p align="center">
+  <img src="./eye.gif" width="110" alt="Watching creativity unfold 👁️"/>
+</p>
+
+<!-- Footer Wave -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:38BDF8,100:22C55E&height=130&section=footer"
+/>
+
+<!-- Credits -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CRAFTED_WITH-💙_CODE_&_DESIGN-6366F1?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/BY-GANESH_SAI-38BDF8?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/「_END_OF_PROFILE_」-22C55E?style=for-the-badge&labelColor=0D1117" />
+</p>
