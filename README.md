@@ -3,9 +3,13 @@
 </div>      
   
 <div align="center">    
-    <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=500&lines=Hey...+I'm+Dinesh+Bhardwaj;Welcome+to+my+Github+profile!;Aspiring+DSA+and+Web+Dev+Enthusiast!;Exploring+new+tech+stacks!;Let's+code+together!" alt="Typing SVG"/> 
-    </h1>  
+   <h1 align="center"> 
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3200&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hey...+I'm+Ganesh+Sai;Data+Science+Student+%7C+Web+Developer;UI%2FUX+Designer+%7C+Freelance+Designer;Machine+Learning+%7C+AI+Enthusiast;Building+ideas+into+real+products;Let's+create+and+code+together!🚀" 
+    alt="Typing SVG"
+  /> 
+</h1>
+  
 </div>
 
 <h2 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="35" height="35" /> Get in touch :</h2>         
