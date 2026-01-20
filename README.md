@@ -94,7 +94,6 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
       alt="Typing SVG"
     />
   </h1>
-</div>
 
 
 
@@ -103,13 +102,6 @@ Hello, fellow coder.! 🖐️ Welcome to my GitHub profile! Reach out to me on t
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </p>
 
-<!-- Outro Typing Text -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+👋;UI%2FUX+Designer+%7C+Web+Developer+%7C+Data+Science+Student;Freelance+Designer+building+clean+and+impactful+products;Let’s+create+something+amazing+together+🚀"
-    alt="Outro Typing"
-  />
-</p>
 
 <!-- Portfolio Button -->
 <p align="center">
